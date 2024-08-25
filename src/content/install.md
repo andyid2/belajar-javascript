@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Cara Install
 order: 1
 ---
 <h2> Quick Installation Script </h2>
